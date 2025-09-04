@@ -7,5 +7,5 @@ Saya Mahasiswa Teknik Informatika Semester 5.
 
 | No | Pertemuan ke | Tema | Laporan | Repositori |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 1 | 01  | YAPPING😭 |   |   |
+| 1 | 01  | Pengenalan Mobile Programming dan Setup Lingkungan |   |   |
 | 2 | 02 |  |  |  |
