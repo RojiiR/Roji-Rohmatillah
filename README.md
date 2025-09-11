@@ -4,17 +4,6 @@ Saya Mahasiswa Teknik Informatika Semester 5.
 
 💻Saat ini saya sedang belajat tentang pemrograman mobile:
 
-👨‍🎓 Identitas Praktikan
-
-🧑‍💻 Nama : Roji Rohmatillah
-
-🆔 NIM : 230605110196
-
-🏫 Kelas : Praktikum Pemrograman Mobile-E
-
-📅 Jadwal Praktikum : Kamis (14.00 - 15.40)
-
-
 
 | No | Pertemuan ke | Tema | Laporan | Repositori |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
